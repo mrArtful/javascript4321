@@ -6,3 +6,4 @@ console.log(name.slice(1));
 // git config --global user.email "EMAIL"
 
 console.log('Hello world!');
+console.log('Hello planet!');
